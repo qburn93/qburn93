@@ -3,7 +3,7 @@ __Welcome__
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=qburn93&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qburn93&theme=blue-green)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
