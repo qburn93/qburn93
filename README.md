@@ -3,7 +3,7 @@ __Welcome__
 
 ![intropic](https://i.imgur.com/5HJokRM.png)
 
-<h4 align="center">I'm an aspiring software developer, currently enrolled on Code Institute's <a href="https://codeinstitute.net/">Full Stack Software Development </a>course. I have acquired experience developing fully responsive websites and applications using HTML, CSS, JavaScript & Python. With my experience in storage rental over a 3 year period I have gained strong Time/Administration Management & Problem Solving skills.</h4>
+<h4 align="center">I'm an aspiring software developer, currently enrolled on Code Institute's <a href="https://codeinstitute.net/">Full Stack Software Development </a>course. I have acquired experience developing fully responsive websites and applications using HTML, CSS, JavaScript & Python, Django and React Js.</h4>
 
 <p align="center">🔭 I’m currently working on Database Management Systems with PostgreSQL and Django REST Frameworks<a href=""></a></p>
 
