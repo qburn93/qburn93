@@ -17,10 +17,28 @@ __Welcome__
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bogdan_dev" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bogdan-gugu-83ba4b11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdangugu" height="30" width="40" /></a>
 </p>
-<h4 align="center">Languages and Tools used:</h4>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://reactjs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-</a>
+<hr><h5 align="center">My Tech Stacks:</h5>
+
+<p align="center">
+  <a href="/">
+     <img  src="https://img.shields.io/badge/HTML5-747372?style=for-the-badge&logo=HTML5&logoColor=#3A506B" alt="html">
+  <a/>&nbsp;
+  <a href="/">
+     <img  src="https://img.shields.io/badge/CSS3-747372?style=for-the-badge&logo=CSS3&logoColor=#3A506B" alt="css">
+  <a/>&nbsp;
+  <a href="/">
+     <img  src="https://img.shields.io/badge/JavaScript-747372?style=for-the-badge&logo=JavaScript&logoColor=#3A506B" alt="js">
+  <a/>&nbsp;
+     <a href="/">
+     <img  src="https://img.shields.io/badge/Python-747372?style=for-the-badge&logo=Python&logoColor=#3A506B" alt="python">
+  <a/>&nbsp;
+   <a href="/">
+     <img  src="https://img.shields.io/badge/Django-747372?style=for-the-badge&logo=Django&logoColor=#3A506B" alt="Django">
+   <a/>&nbsp;
+   <a href="/">
+     <img  src="https://img.shields.io/badge/Flask-747372?style=for-the-badge&logo=Flask&logoColor=#3A506B" alt="flask">
+   <a/>
+<p/>
 
 
 
