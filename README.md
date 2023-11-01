@@ -68,13 +68,14 @@ __Welcome__
    <a/>&nbsp;
    <a href="/">
      <img  src="https://img.shields.io/badge/Materialize-747372?style=for-the-badge&logoColor=#3A506B" alt="materialize">
-   <a/>&nbsp;   
+   <a/>&nbsp; 
+    <a href="/">
+     <img  src="https://img.shields.io/badge/React-747372?style=for-the-badge&logo=React&logoColor=#3A506B" alt="react">
   <p/>
 
  <h5 align="center">Currently Upskilling on:</h5>
      <p align="center">
-  <a href="/">
-     <img  src="https://img.shields.io/badge/React-747372?style=for-the-badge&logo=React&logoColor=#3A506B" alt="react">
+  
   <a/>&nbsp;
     <a href="/">
      <img  src="https://img.shields.io/badge/Tailwind CSS-747372?style=for-the-badge&logo=Tailwind CSS&logoColor=#3A506B" alt="tailwindCSS">
