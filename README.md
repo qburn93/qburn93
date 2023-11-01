@@ -75,6 +75,8 @@ __Welcome__
 
  <h5 align="center">Currently Upskilling on:</h5>
      <p align="center">
+     <a href="/">
+     <img  src="https://img.shields.io/badge/RUST CSS-747372?style=for-the-badge&logo=RUST CSS&logoColor=#3A506B" alt="RUSTCSS">
   
   <a/>&nbsp;
     <a href="/">
