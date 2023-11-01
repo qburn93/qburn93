@@ -40,6 +40,50 @@ __Welcome__
    <a/>
 <p/>
 
+<p align="center">
+  
+   <a href="/">
+     <img  src="https://img.shields.io/badge/PostgreSQL-747372?style=for-the-badge&logo=PostgreSQL&logoColor=#3A506B" alt="postgres">
+   <a/>&nbsp;
+   <a href="/">
+     <img  src="https://img.shields.io/badge/MongoDB-747372?style=for-the-badge&logo=MongoDB&logoColor=#3A506B" alt="mongo">
+   <a/>&nbsp;
+    <a href="/">
+     <img  src="https://img.shields.io/badge/Git-747372?style=for-the-badge&logo=Git&logoColor=#3A506B" alt="Git">
+   <a/>&nbsp;
+    <a href="/">
+     <img  src="https://img.shields.io/badge/Github-747372?style=for-the-badge&logo=Github&logoColor=#3A506B" alt="github">
+   <a/>&nbsp;
+      <a href="/">
+     <img  src="https://img.shields.io/badge/Visual Studio Code-747372?style=for-the-badge&logo=Visual Studio Code&logoColor=#3A506B" alt="Visual Studio Code">
+   <a/>&nbsp;
+   <a href="/">
+     <img  src="https://img.shields.io/badge/Markdown-747372?style=for-the-badge&logo=Markdown&logoColor=#3A506B" alt="Markdown">
+   <a/>&nbsp;
+  <p/>
+     
+ <p align="center">
+   <a href="/">
+     <img  src="https://img.shields.io/badge/Bootstrap-747372?style=for-the-badge&logo=Bootstrap&logoColor=#3A506B" alt="bootstrap">
+   <a/>&nbsp;
+   <a href="/">
+     <img  src="https://img.shields.io/badge/Materialize-747372?style=for-the-badge&logoColor=#3A506B" alt="materialize">
+   <a/>&nbsp;   
+  <p/>
+
+ <h5 align="center">Currently Upskilling on:</h5>
+     <p align="center">
+  <a href="/">
+     <img  src="https://img.shields.io/badge/React-747372?style=for-the-badge&logo=React&logoColor=#3A506B" alt="react">
+  <a/>&nbsp;
+    <a href="/">
+     <img  src="https://img.shields.io/badge/Tailwind CSS-747372?style=for-the-badge&logo=Tailwind CSS&logoColor=#3A506B" alt="tailwindCSS">
+  <a/>&nbsp;
+      <a href="/">
+     <img  src="https://img.shields.io/badge/Angular JS-747372?style=for-the-badge&logo=Angular&logoColor=#3A506B" alt="angular">
+  <a/>&nbsp;
+    <p/>
+
 
 
 
