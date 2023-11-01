@@ -12,11 +12,6 @@ __Welcome__
 
 ![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qburn93&theme=dark&show_icons=true)
 
-<h4 align="center">Connect with me:</h4>
-<p align="center">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bogdan_dev" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bogdan-gugu-83ba4b11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdangugu" height="30" width="40" /></a>
-</p>
 <hr><h5 align="center">My Tech Stacks:</h5>
 
 <p align="center">
@@ -87,6 +82,13 @@ __Welcome__
     <p/>
                 
 <hr>
+
+<h4 align="center">Connect with me:</h4>
+    <p align="center">
+    <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bogdan_dev" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/bogdan-gugu-83ba4b11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdangugu" height="30" width="40" /></a>
+</p>
+
 
 
 
