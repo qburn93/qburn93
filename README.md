@@ -75,17 +75,18 @@ __Welcome__
 
  <h5 align="center">Currently Upskilling on:</h5>
      <p align="center">
-     <a href="/">
-     <img  src="https://img.shields.io/badge/RUST CSS-747372?style=for-the-badge&logo=RUST CSS&logoColor=#3A506B" alt="RUSTCSS">
-  
+  <a href="/">
+     <img  src="https://img.shields.io/badge/React-747372?style=for-the-badge&logo=React&logoColor=F8B8E5" alt="Rust">
   <a/>&nbsp;
     <a href="/">
-     <img  src="https://img.shields.io/badge/Tailwind CSS-747372?style=for-the-badge&logo=Tailwind CSS&logoColor=#3A506B" alt="tailwindCSS">
+     <img  src="https://img.shields.io/badge/Data Analys-747372?style=for-the-badge&logo=Data Analys&logoColor=F8B8E5" alt="Data Analys">
   <a/>&nbsp;
       <a href="/">
-     <img  src="https://img.shields.io/badge/Angular JS-747372?style=for-the-badge&logo=Angular&logoColor=#3A506B" alt="angular">
+     <img  src="https://img.shields.io/badge/Node.js JS-747372?style=for-the-badge&logo=Node.js&logoColor=F8B8E5" alt="Node.js">
   <a/>&nbsp;
     <p/>
+                
+<hr>
 
 
 
