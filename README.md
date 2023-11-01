@@ -76,7 +76,7 @@ __Welcome__
  <h5 align="center">Currently Upskilling on:</h5>
      <p align="center">
   <a href="/">
-     <img  src="https://img.shields.io/badge/React-747372?style=for-the-badge&logo=React&logoColor=F8B8E5" alt="Rust">
+     <img  src="https://img.shields.io/badge/Rust-747372?style=for-the-badge&logo=Rust&logoColor=F8B8E5" alt="Rust">
   <a/>&nbsp;
     <a href="/">
      <img  src="https://img.shields.io/badge/Data Analys-747372?style=for-the-badge&logo=Data Analys&logoColor=F8B8E5" alt="Data Analys">
