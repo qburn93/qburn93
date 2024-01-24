@@ -15,11 +15,11 @@ __Welcome__
 <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 24px;">
     <a href="https://api.badgr.io/public/assertions/SUhCfTqJQ6uIXt-EV4wfCA?identity__email=bogdan.gugu93%40gmail.com">
-      <img width="120" height="120" src="https://media.eu.badgr.com/uploads/badges/assertion-SUhCfTqJQ6uIXt-EV4wfCA.png" alt="December 2023 Hackathon Badge">
+      <img width="120" height="120" src="https://api.eu.badgr.io/public/assertions/JYRFGMw7QPeCHLeS-EPK2g/image" alt="December 2023 Hackathon Badge">
     </a>
     <p style="font-size: 16px; font-weight: 600; margin: 4px 0;">December 2023 Hackathon: Participant</p>
-    <p style="font-size: 12px; margin: 4px 0;"><strong>Awarded:</strong> 20 Dec 2023</p>
-    <a href="https://api.badgr.io/public/assertions/SUhCfTqJQ6uIXt-EV4wfCA?identity__email=bogdan.gugu93%40gmail.com" target="_blank" style="font-size: 14px; font-weight: bold; text-decoration: none; padding: 6px 16px; color: black;">VERIFY</a>
+    <p style="font-size: 12px; margin: 4px 0;"><strong>Awarded:</strong> Dec 20, 2023</p>
+    <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FSUhCfTqJQ6uIXt-EV4wfCA%3Fidentity__email%3Dbogdan.gugu93%40gmail.com&identity__email=bogdan.gugu93%40gmail.com" target="_blank" style="font-size: 14px; font-weight: bold; text-decoration: none; padding: 6px 16px; color: black;">VERIFY</a>
   </div>
 
   <div style="display: inline-block; text-align: center;">
