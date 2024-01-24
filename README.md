@@ -1,7 +1,11 @@
 __Welcome__
-<h1 align="center">Hi 👋, I'm </h1>
+<h1 align="center">Hi 👋, I'm Bogdan </h1>
 
-![intropic](https://i.imgur.com/5HJokRM.png)
+
+<h4 align="center">Junior Full Stack Developer alumni from Code Institute's <a href="https://codeinstitute.net/">Full Stack Software Development </a>course, specializing in Advanced Front End technologies. My expertise includes developing responsive websites and applications using React.js, JavaScript, Python, Django, and HTML/CSS. I have a robust understanding of both Agile and Waterfall methodologies, leading teams through complex project phases.</h4>
+
+<p align="center">🔭 I’ve recently sharpened my Scrum Master skills by participating in Code Institute's Hackathons in December 2023 and january 2024, reinforcing my experience in project management and full-stack development.</p>
+
 
 <h4 align="center">I'm an aspiring software developer, currently enrolled on Code Institute's <a href="https://codeinstitute.net/">Full Stack Software Development </a>course. I have acquired experience developing fully responsive websites and applications using HTML, CSS, JavaScript & Python, Django and React Js.</h4>
 
