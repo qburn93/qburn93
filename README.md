@@ -13,12 +13,23 @@ __Welcome__
 
 
 <p align="center">
-  <a href="https://api.badgr.io/public/assertions/SUhCfTqJQ6uIXt-EV4wfCA?identity__email=bogdan.gugu93%40gmail.com">
-    <img width="120" height="120" src="https://media.eu.badgr.com/uploads/badges/assertion-SUhCfTqJQ6uIXt-EV4wfCA.png" alt="December 2023 Hackathon Badge">
-  </a>
-  <a href="https://api.eu.badgr.io/public/assertions/vLH26vhyTla2jZNF7d-X5Q?identity__email=bogdan.gugu93%40gmail.com">
-    <img width="120" height="120" src="https://media.eu.badgr.com/uploads/badges/assertion-vLH26vhyTla2jZNF7d-X5Q.png" alt="November 2022 Hackathon Badge">
-  </a>
+  <div style="display: inline-block; text-align: center; margin-right: 24px;">
+    <a href="https://api.badgr.io/public/assertions/SUhCfTqJQ6uIXt-EV4wfCA?identity__email=bogdan.gugu93%40gmail.com">
+      <img width="120" height="120" src="https://media.eu.badgr.com/uploads/badges/assertion-SUhCfTqJQ6uIXt-EV4wfCA.png" alt="December 2023 Hackathon Badge">
+    </a>
+    <p style="font-size: 16px; font-weight: 600; margin: 4px 0;">December 2023 Hackathon: Participant</p>
+    <p style="font-size: 12px; margin: 4px 0;"><strong>Awarded:</strong> 20 Dec 2023</p>
+    <a href="https://api.badgr.io/public/assertions/SUhCfTqJQ6uIXt-EV4wfCA?identity__email=bogdan.gugu93%40gmail.com" target="_blank" style="font-size: 14px; font-weight: bold; text-decoration: none; padding: 6px 16px; color: black;">VERIFY</a>
+  </div>
+
+  <div style="display: inline-block; text-align: center;">
+    <a href="https://api.badgr.io/public/assertions/vLH26vhyTla2jZNF7d-X5Q?identity__email=bogdan.gugu93%40gmail.com">
+      <img width="120" height="120" src="https://media.eu.badgr.com/uploads/badges/assertion-vLH26vhyTla2jZNF7d-X5Q.png" alt="November 2022 Hackathon Badge">
+    </a>
+    <p style="font-size: 16px; font-weight: 600; margin: 4px 0;">November 2022 Hackathon: Participant</p>
+    <p style="font-size: 12px; margin: 4px 0;"><strong>Awarded:</strong> 23 Nov 2022</p>
+    <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FvLH26vhyTla2jZNF7d-X5Q%3Fidentity__email%3Dbogdan.gugu93%40gmail.com&identity__email=bogdan.gugu93%40gmail.com" target="_blank" style="font-size: 14px; font-weight: bold; text-decoration: none; padding: 6px 16px; color: black;">VERIFY</a>
+  </div>
 </p>
 
 
