@@ -36,6 +36,14 @@ __Welcome__
     <p style="font-size: 12px; margin: 4px 0;"><strong>Awarded:</strong> 23 Nov 2022</p>
     <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FvLH26vhyTla2jZNF7d-X5Q%3Fidentity__email%3Dbogdan.gugu93%40gmail.com&identity__email=bogdan.gugu93%40gmail.com" target="_blank" style="font-size: 14px; font-weight: bold; text-decoration: none; padding: 6px 16px; color: black;">VERIFY</a>
   </div>
+  <div style="display: inline-block; text-align: center;">
+    <a href="https://api.eu.badgr.io/public/assertions/XImhTgERR9-lRsxm1fO2Cw?identity__email=bogdan.gugu93%40gmail.com">
+      <img width="120" height="120" src="https://api.eu.badgr.io/public/assertions/XImhTgERR9-lRsxm1fO2Cw/image" alt="November 2022 Hackathon Badge">
+    </a>
+    <p style="font-size: 16px; font-weight: 600; margin: 4px 0;">November 2022 Hackathon: Participant</p>
+    <p style="font-size: 12px; margin: 4px 0;"><strong>Awarded:</strong> 23 Nov 2022</p>
+    <a href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FXImhTgERR9-lRsxm1fO2Cw%3Fidentity__email%3Dbogdan.gugu93%2540gmail.com&amp;identity__email=bogdan.gugu93%40gmail.com" target="_blank" style="font-size: 14px; font-weight:   bold; text-decoration: none; padding: 6px 16px; color: black;">VERIFY</a>
+  </div>
 </p>
 
   ##
