@@ -16,7 +16,7 @@ __Welcome__
   <a href="https://api.badgr.io/public/assertions/SUhCfTqJQ6uIXt-EV4wfCA?identity__email=bogdan.gugu93%40gmail.com">
     <img width="120" height="120" src="https://media.eu.badgr.com/uploads/badges/assertion-SUhCfTqJQ6uIXt-EV4wfCA.png" alt="December 2023 Hackathon Badge">
   </a>
-  <a href="https://api.badgr.io/public/assertions/vLH26vhyTla2jZNF7d-X5Q?identity__email=bogdan.gugu93%40gmail.com">
+  <a href="https://api.eu.badgr.io/public/assertions/vLH26vhyTla2jZNF7d-X5Q?identity__email=bogdan.gugu93%40gmail.com">
     <img width="120" height="120" src="https://media.eu.badgr.com/uploads/badges/assertion-vLH26vhyTla2jZNF7d-X5Q.png" alt="November 2022 Hackathon Badge">
   </a>
 </p>
