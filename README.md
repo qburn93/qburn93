@@ -17,7 +17,7 @@ __Welcome__
 
   ##
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qburn93&theme=dark&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=qburn93&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=qburn93)
