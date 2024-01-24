@@ -9,18 +9,14 @@ __Welcome__
 
   ##
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=qburn93&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=qburn93) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=qburn93&theme=dark&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qburn93)](https://github.com/anuraghazra/github-readme-stats)
 
   ##
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qburn93&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-  ##
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=qburn93)
-
-  ##
 
   <p align="center">
   <div style="display: inline-block; text-align: center; margin-right: 24px;">
