@@ -12,6 +12,16 @@ __Welcome__
 
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.eu.badgr.io/public/assertions/vLH26vhyTla2jZNF7d-X5Q?identity__email=bogdan.gugu93%40gmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-vLH26vhyTla2jZNF7d-X5Q.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">December 2023 Hackathon: Participant</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>20 Dec 2023</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://api.badgr.io/public/assertions/SUhCfTqJQ6uIXt-EV4wfCA?identity__email=bogdan.gugu93%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qburn93&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qburn93)](https://github.com/anuraghazra/github-readme-stats)
+
+  ##
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=qburn93)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=qburn93)
+
 ![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qburn93&theme=dark&show_icons=true)
 
 <hr><h5 align="center">My Tech Stacks:</h5>
