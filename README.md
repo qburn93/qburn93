@@ -106,7 +106,7 @@ __Welcome__
 
 <h4 align="center">Connect with me:</h4>
     <p align="center">
-    <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bogdan_dev" height="30" width="40" /></a>
+    </a>
     <a href="https://www.linkedin.com/in/bogdan-gugu-83ba4b11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdangugu" height="30" width="40" /></a>
 </p>
 
