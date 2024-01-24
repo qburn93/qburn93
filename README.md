@@ -17,10 +17,10 @@ __Welcome__
 
   ##
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qburn93&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=qburn93&theme=dark&show_icons=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=qburn93&theme=dar)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=qburn93)
 
 ![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qburn93&theme=dark&show_icons=true)
 
