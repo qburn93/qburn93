@@ -1,11 +1,19 @@
-__Welcome__
-<h1 align="center">Hi 👋, I'm Bogdan </h1>
+<h1 align="center">Hi 👋, I'm Bogdan</h1>
 
+<p align="center">Junior Full Stack Developer alumni from Code Institute's <a href="https://codeinstitute.net/">Full Stack Software Development</a> course, specializing in Advanced Front End technologies. My expertise includes setting up backend databases, developing responsive websites and applications using React.js, JavaScript, Python, Django, and HTML/CSS. I have a robust understanding of both Agile and Waterfall methodologies, leading teams through complex project phases.</p>
 
-<p align="center">Junior Full Stack Developer alumni from Code Institute's <a href="https://codeinstitute.net/">Full Stack Software Development </a>course, specializing in Advanced Front End technologies. My expertise includes setting up backend databases, developing responsive websites and applications using React.js, JavaScript, Python, Django, and HTML/CSS. I have a robust understanding of both Agile and Waterfall methodologies, leading teams through complex project phases.</p>
+<p align="center">I’ve recently sharpened my Scrum Master skills by participating in Code Institute's Hackathons in December 2023 and January 2024, reinforcing my experience in project management and full-stack development.</p>
 
-<p align="center"> I’ve recently sharpened my Scrum Master skills by participating in Code Institute's Hackathons in December 2023 and january 2024, reinforcing my experience in project management and full-stack development.</p>
 <p align="center"><strong>🔭 Currently enrolled in a 6-month system developer course learning more about Python and Cyber Security and overall honing my experience in secure full-stack engineering 🔭</strong></p>
+
+<h4 align="center">Connect with me:</h4>
+<p align="center">
+    <a href="https://www.linkedin.com/in/bogdan-gugu-83ba4b11a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdangugu" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=qburn93&style=flat-square&color=red" alt="Profile views"/>
+</p>
 
   ##
 
@@ -73,18 +81,6 @@ __Welcome__
      <img  src="https://img.shields.io/badge/React-747372?style=for-the-badge&logo=React&logoColor=#3A506B" alt="react">
   <p/>
 
-
-<hr>
-
-<h4 align="center">Connect with me:</h4>
-    <p align="center">
-    </a>
-    <a href="https://www.linkedin.com/in/bogdan-gugu-83ba4b11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdangugu" height="30" width="40" /></a>
-</p>
-
-</div>
-<img src="https://komarev.com/ghpvc/?username=qburn93&style=flat-square&color=red" alt=""/>
-</div>
 
 <hr>
 
