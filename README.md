@@ -17,10 +17,40 @@
 
   ##
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=qburn93&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=qburn93) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qburn93&theme=dark&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qburn93)](https://github.com/anuraghazra/github-readme-stats) <p align="center">
+ <table align="center">
+  <tr>
+    <td align="center" colspan="2"><b>Github Trophies</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=qburn93&theme=onedark" alt="trophy" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Streak Stats</b></td>
+    <td align="center"><b>GitHub Stats</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=qburn93" alt="GitHub streak stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=qburn93&theme=dark&show_icons=true&count_private=true" alt="GitHub stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><b>Top Languages</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qburn93" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
   ##
 
