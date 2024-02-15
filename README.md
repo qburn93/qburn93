@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=qburn93&style=flat-square&color=red" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=qburn93&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
   ##
