@@ -111,13 +111,12 @@
      <img  src="https://img.shields.io/badge/React-747372?style=for-the-badge&logo=React&logoColor=#3A506B" alt="react">
   <p/>
 
-
 <hr>
 <h5 align="center">Hackathon Badges:</h5>
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- Badge 1: January 2024 Hackathon Participant -->
-  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; text-align: center; margin: 20px;">
+  <blockquote class="badgr-badge" style="display: inline-flex; flex-direction: column; align-items: center; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; text-align: center; margin: 10px;">
     <a href="https://api.eu.badgr.io/public/assertions/XImhTgERR9-lRsxm1fO2Cw?identity__email=bogdan.gugu93%40gmail.com">
       <img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/XImhTgERR9-lRsxm1fO2Cw/image">
     </a>
@@ -134,7 +133,7 @@
   </blockquote>
 
   <!-- Badge 2: December 2023 Hackathon Participant -->
-  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; text-align: center; margin: 20px;">
+  <blockquote class="badgr-badge" style="display: inline-flex; flex-direction: column; align-items: center; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; text-align: center; margin: 10px;">
     <a href="https://api.eu.badgr.io/public/assertions/JYRFGMw7QPeCHLeS-EPK2g?identity__email=bogdan.gugu93%40gmail.com">
       <img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/JYRFGMw7QPeCHLeS-EPK2g/image">
     </a>
@@ -151,7 +150,7 @@
   </blockquote>
 
   <!-- Badge 3: November 2022 Hackathon Participant -->
-  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; text-align: center; margin: 20px;">
+  <blockquote class="badgr-badge" style="display: inline-flex; flex-direction: column; align-items: center; font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; text-align: center; margin: 10px;">
     <a href="https://api.eu.badgr.io/public/assertions/vLH26vhyTla2jZNF7d-X5Q?identity__email=bogdan.gugu93%40gmail.com">
       <img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/vLH26vhyTla2jZNF7d-X5Q/image">
     </a>
