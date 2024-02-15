@@ -114,14 +114,57 @@
 
 <hr>
 
-<hr><h5 align="center">Hachathon badges:</h5>
+<hr>
+<h5 align="center">Hackathon Badges:</h5>
 
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.eu.badgr.io/public/assertions/XImhTgERR9-lRsxm1fO2Cw?identity__email=bogdan.gugu93%40gmail.com"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/XImhTgERR9-lRsxm1fO2Cw/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">January 2024 Hackathon: Participant</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Jan 24, 2024</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Bogdan</span></p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FXImhTgERR9-lRsxm1fO2Cw%3Fidentity__email%3Dbogdan.gugu93%2540gmail.com&amp;identity__email=bogdan.gugu93%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote>
+<div align="center">
+  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
+    <a href="https://api.eu.badgr.io/public/assertions/XImhTgERR9-lRsxm1fO2Cw?identity__email=bogdan.gugu93%40gmail.com">
+      <img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/XImhTgERR9-lRsxm1fO2Cw/image">
+    </a>
+    <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: center; color: #05012c;">January 2024 Hackathon: Participant</p>
+    <p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: center; color: #555555;">
+      <strong style="font-weight: bold;">Awarded: </strong>Jan 24, 2024
+    </p>
+    <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: center; color: #555555;">
+      <strong style="font-weight: bold;">Awarded To: </strong>Bogdan
+    </p>
+    <p style="margin: 16px 0;">
+      <a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FXImhTgERR9-lRsxm1fO2Cw%3Fidentity__email%3Dbogdan.gugu93%2540gmail.com&identity__email=bogdan.gugu93%40gmail.com" style="box-sizing: content-box; display: inline-flex; align-items: center; justify-content: center; font-size:14px; font-weight: bold; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; color: black;">VERIFY</a>
+    </p>
+  </blockquote>
 
-
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.eu.badgr.io/public/assertions/JYRFGMw7QPeCHLeS-EPK2g?identity__email=bogdan.gugu93%40gmail.com"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/JYRFGMw7QPeCHLeS-EPK2g/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">December 2023 Hackathon: Participant</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Dec 20, 2023</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Bogdan</span></p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FJYRFGMw7QPeCHLeS-EPK2g%3Fidentity__email%3Dbogdan.gugu93%2540gmail.com&amp;identity__email=bogdan.gugu93%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote>
-
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.eu.badgr.io/public/assertions/vLH26vhyTla2jZNF7d-X5Q?identity__email=bogdan.gugu93%40gmail.com"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/vLH26vhyTla2jZNF7d-X5Q/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">November 2022 Hackathon: Participant</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Nov 23, 2022</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Bogdan</span></p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FvLH26vhyTla2jZNF7d-X5Q%3Fidentity__email%3Dbogdan.gugu93%2540gmail.com&amp;identity__email=bogdan.gugu93%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote>
+  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; text-align: center; margin: 20px;">
+    <a href="https://api.eu.badgr.io/public/assertions/JYRFGMw7QPeCHLeS-EPK2g?identity__email=bogdan.gugu93%40gmail.com">
+      <img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/JYRFGMw7QPeCHLeS-EPK2g/image">
+    </a>
+    <p class="badgr-badge-name" style="margin: 10px 0; font-size: 16px; font-weight: 600; color: #05012c;">December 2023 Hackathon: Participant</p>
+    <p class="badgr-badge-date" style="margin: 0; font-size: 12px; color: #555555;">
+      <strong>Awarded: </strong>Dec 20, 2023
+    </p>
+    <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; color: #555555;">
+      <strong>Awarded To: </strong>Bogdan
+    </p>
+    <p style="margin: 16px 0;">
+      <a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FJYRFGMw7QPeCHLeS-EPK2g%3Fidentity__email%3Dbogdan.gugu93%2540gmail.com&identity__email=bogdan.gugu93%40gmail.com" style="font-size:14px; font-weight: bold; border: solid 1px black; text-decoration: none; padding: 6px 16px; color: black;">VERIFY</a>
+    </p>
+  </blockquote>
+  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif; text-align: center; margin: 20px;">
+    <a href="https://api.eu.badgr.io/public/assertions/vLH26vhyTla2jZNF7d-X5Q?identity__email=bogdan.gugu93%40gmail.com">
+      <img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/vLH26vhyTla2jZNF7d-X5Q/image">
+    </a>
+    <p class="badgr-badge-name" style="margin: 10px 0; font-size: 16px; font-weight: 600; color: #05012c;">November 2022 Hackathon: Participant</p>
+    <p class="badgr-badge-date" style="margin: 0; font-size: 12px; color: #555555;">
+      <strong>Awarded: </strong>Nov 23, 2022
+    </p>
+    <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; color: #555555;">
+      <strong>Awarded To: </strong>Bogdan
+    </p>
+    <p style="margin: 16px 0;">
+      <a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FvLH26vhyTla2jZNF7d-X5Q%3Fidentity__email%3Dbogdan.gugu93%2540gmail.com&identity__email=bogdan.gugu93%40gmail.com" style="font-size:14px; font-weight: bold; border: solid 1px black; text-decoration: none; padding: 6px 16px; color: black;">VERIFY</a>
+    </p>
+  </blockquote>
+</div>
 
 
   
