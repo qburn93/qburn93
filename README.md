@@ -4,7 +4,6 @@
 
 <p align="center">I’ve recently sharpened my Scrum Master skills by participating in Code Institute's Hackathons in December 2023 and January 2024, reinforcing my experience in project management and full-stack development.</p>
 
-<p align="center"><strong>🔭 Currently enrolled in a 6-month system developer course learning more about Python and Cyber Security and overall honing my experience in secure full-stack engineering 🔭</strong></p>
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
